@@ -42,5 +42,5 @@ To re-build this environment one can use [**our PULPissimo fork**](https://githu
 
 ## Paper
 
-The paper will be presented at the [CASES](https://esweek.org/cases/) conference during Embedded Systems Week and then published in [Transactions on Embedded Computing Systems (TECS)](https://dl.acm.org/journal/tecs).
+The [paper](https://doi.org/10.1145/3476989) has been presented at the [CASES 2021](https://esweek.org/cases/) conference during Embedded Systems Week and then published in a [Special Issue](https://dl.acm.org/toc/tecs/2021/20/5s) of [Transactions on Embedded Computing Systems (TECS)](https://dl.acm.org/journal/tecs).
 The [**preprint**](https://arxiv.org/abs/2103.04456) can be found at arXiv.
